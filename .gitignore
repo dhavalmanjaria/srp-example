@@ -27,6 +27,6 @@ local.properties
 *.launch
 
 # Output File types
-.json
-.txt
-.csv
+*.json
+*.txt
+*.csv
